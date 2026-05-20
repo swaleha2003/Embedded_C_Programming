@@ -1,0 +1,1 @@
+The Objective: Turn the LED on, wait, and turn it off—without using standard libraries.
